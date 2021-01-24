@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896161589656",
+    "project_id": "motivation-a2098",
+    "storage_bucket": "motivation-a2098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896161589656:android:a0891f389de570b58363ed",
+        "android_client_info": {
+          "package_name": "com.joanneum.motivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896161589656-uvkd8rjcl86k4ufsu4c5krq659ftvhit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBejJ7EvdhnTcrAoqat061u-G-cpipI35A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896161589656-uvkd8rjcl86k4ufsu4c5krq659ftvhit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

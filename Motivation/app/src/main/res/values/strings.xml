@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="btnReward">Get your reward!</string>
+    <string name="btnQuest">Find a quest</string>
+    <string name="btnHistory">Browse your old deeds</string>
+    <string name="btnFriends">Leaderboard</string>
+    <string name="btnProfile">Profile</string>
+    <string name="taskName">Task X</string>
+    <string name="taskEP">0 EP</string>
+    <string name="categoryName">Select the category of the tasks</string>
+    <string name="selectionDescription">Select the tasks</string>
+    <string name="getReward">So you finished your task and want a reward. Of course, just tell me what about your heroic deed!</string>
+    <string name="choose">Choose</string>
+    <string name="addedEP">You got X Experience Points!</string>
+    <string name="chooseTasks">So you have a little time and want to make something great? Search the bountyboard for the right quest for you.</string>
+    <string name="waiting">You have decided on a quest? Than let\'s do it! Ehhhm, I mean you do it, I will wait here for you with your reward until you finished...</string>
+    <string name="finished">Finished</string>
+    <string name="enter_name">Enter your username</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="enter_passwort_hint">at least 8 character</string>
+    <string name="repeat_passwort">Repeat Password</string>
+    <string name="registration_error">Something went wrong</string>
+    <string name="register">register</string>
+    <string name="leaderboard">The Hall of Fame: Look at the 10 players who have made it this far with awe. Put in the work and you\'ll soon be able to admire yourself on this list!</string>
+    <string name="your_score">Your current score: 0</string>
+    <string name="epToLvl">"EP to next lvl: "</string>
+    <string name="epToNextLvl">"EP to next lvl: "</string>
+    <string name="username">username</string>
+    <string name="profilOverview">Profile Overview</string>
+    <string name="level">Level</string>
+
+</resources>
